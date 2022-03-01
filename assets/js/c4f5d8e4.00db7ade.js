@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs_safelyfinance_co=self.webpackChunkdocs_safelyfinance_co||[]).push([[195],{3530:function(n,e,c){c.r(e),c.d(e,{default:function(){return f}});var t=c(7294);function u(n){var e=n.to;return t.useEffect((function(){window.location.replace(e)}),[]),null}function f(){return t.createElement(u,{to:"/api"})}}}]);

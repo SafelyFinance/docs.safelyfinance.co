@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_safelyfinance_co=self.webpackChunkdocs_safelyfinance_co||[]).push([[222],{6286:function(e){e.exports=JSON.parse('{"description":"\ud83d\udc4b Welcome to Safely Finance! Our API lets you embed the Safely Finance Checkout experience anywhere on your website."}')}}]);
